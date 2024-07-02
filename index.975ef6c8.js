@@ -27196,7 +27196,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my coding experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = " Practice makes perfect, and as I am passionate about programming, I strive to hone my skills through continuous practice, believing that mastery of code is a path to perfection.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28622,7 +28622,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _women1Jpg = require("../images/women1.jpg");
 var _women1JpgDefault = parcelHelpers.interopDefault(_women1Jpg);
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+const imageAltText = "A woman wearing white glasses is working on a laptop at her office table.";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
@@ -28634,7 +28634,7 @@ const Home = ({ name , title  })=>{
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 31,
+                lineNumber: 30,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28649,20 +28649,20 @@ const Home = ({ name , title  })=>{
                         children: name
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
-                        lineNumber: 33,
+                        lineNumber: 32,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
                         children: title
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
-                        lineNumber: 34,
+                        lineNumber: 33,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 32,
+                lineNumber: 31,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28680,18 +28680,18 @@ const Home = ({ name , title  })=>{
                     alt: imageAltText
                 }, void 0, false, {
                     fileName: "src/Components/Home.jsx",
-                    lineNumber: 37,
+                    lineNumber: 36,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
-                lineNumber: 36,
+                lineNumber: 35,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Home.jsx",
-        lineNumber: 30,
+        lineNumber: 29,
         columnNumber: 5
     }, undefined);
 };
@@ -28749,7 +28749,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  * freely use on your site.
  */ var _webJpeg = require("../images/web.jpeg");
 var _webJpegDefault = parcelHelpers.interopDefault(_webJpeg);
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Two professional women are pointing their fingers at the monitor, analyzing the code displayed and identifying an error.";
 /**
  * Project list
  *
@@ -28757,9 +28757,9 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "tour and travel ✈️\uD83E\uDDF3",
+        description: "A website for tourists to discover and visit famous places in the city. The website includes React and JavaScript to create an interactive section providing detailed descriptions of attractions to help tourists plan their visits.",
+        url: "https://codesandbox.io/p/github/nayana0099/tour-and-travel-export/main?workspaceId=8e6bb13a-7668-4180-8a9d-a14b144a1b75"
     },
     {
         title: "Web Development for Beginners",
@@ -28789,7 +28789,7 @@ const Portfolio = ()=>{
                 children: "Portfolio"
             }, void 0, false, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 62,
+                lineNumber: 63,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28814,12 +28814,12 @@ const Portfolio = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Portfolio.jsx",
-                            lineNumber: 65,
+                            lineNumber: 66,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 64,
+                        lineNumber: 65,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28838,12 +28838,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 75,
+                                            lineNumber: 76,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 74,
+                                        lineNumber: 75,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -28851,30 +28851,30 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 77,
+                                        lineNumber: 78,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 73,
+                                lineNumber: 74,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 71,
+                        lineNumber: 72,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 63,
+                lineNumber: 64,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Portfolio.jsx",
-        lineNumber: 61,
+        lineNumber: 62,
         columnNumber: 5
     }, undefined);
 };
