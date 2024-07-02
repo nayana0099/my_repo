@@ -38,7 +38,7 @@ const skillsList = ["Web development", "software developer", "java developer", "
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my coding experience I continually look for new and better ways to make tech accessible by all.";
+  " Practice makes perfect, and as I am passionate about programming, I strive to hone my skills through continuous practice, believing that mastery of code is a path to perfection.";
 
 const About = () => {
   return (

@@ -21,7 +21,8 @@ import React from "react";
  */
 import image from "../images/web.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText =
+  "Two professional women are pointing their fingers at the monitor, analyzing the code displayed and identifying an error.";
 
 /**
  * Project list
@@ -31,10 +32,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "tour and travel ✈️🧳",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A website for tourists to discover and visit famous places in the city. The website includes React and JavaScript to create an interactive section providing detailed descriptions of attractions to help tourists plan their visits.",
+    url: "https://codesandbox.io/p/github/nayana0099/tour-and-travel-export/main?workspaceId=8e6bb13a-7668-4180-8a9d-a14b144a1b75",
   },
   {
     title: "Web Development for Beginners",
