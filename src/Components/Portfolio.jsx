@@ -34,7 +34,7 @@ const projectList = [
   {
     title: "tour and travel ✈️🧳",
     description:
-      "A website for tourists to discover and visit famous places in the city. The website includes React and JavaScript to create an interactive section providing detailed descriptions of attractions to help tourists plan their visits.",
+      "A website for tourists to discover and visit famous places in the city, using React and JavaScript to provide detailed descriptions of attractions and help plan their visits.",
     url: "https://codesandbox.io/p/github/nayana0099/tour-and-travel-export/main?workspaceId=8e6bb13a-7668-4180-8a9d-a14b144a1b75",
   },
   {
