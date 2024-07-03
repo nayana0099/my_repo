@@ -37,24 +37,6 @@ const projectList = [
       "A website for tourists to discover and visit famous places in the city, using React and JavaScript to provide detailed descriptions of attractions and help plan their visits.",
     url: "https://codesandbox.io/p/github/nayana0099/tour-and-travel-export/main?workspaceId=8e6bb13a-7668-4180-8a9d-a14b144a1b75",
   },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
 ];
 
 const Portfolio = () => {
